@@ -8,8 +8,11 @@
   
 ## 復習用資料一覧  
   
-[高校社会科／公民ガイダンス資料](highscoolcivicsguidance.md)  
-[高校社会科／公民／政治分野](https://teacheramesaka.github.io/highschoolpolitics/)  
+|資料|授業動画|
+|:----:|:----:|
+|[高校社会科／公民ガイダンス](highscoolcivicsguidance.md)|[高校公民ガイダンス](https://www.youtube.com/watch?v=HRJkEYP2FC8)|  
+|[高校社会科／公民／政治分野](https://teacheramesaka.github.io/highschoolpolitics/)|[授業動画／高校公民／政治分野　再生リスト](https://www.youtube.com/playlist?list=PLOdKiaJAYzERndOIxrbdbhSC4GhkUZW_O)|  
+
   
   
   
