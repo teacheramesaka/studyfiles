@@ -6,14 +6,13 @@
 授業を掲載しているyoutubeチャンネルは[こちら](https://www.youtube.com/channel/UCrht6vxr8hPElHXKxjyJEZA)  
   
   
-## 復習用資料一覧  
+## 復習用資料及び動画一覧  
   
-|資料|授業動画|
+|資料|動画|
 |:----:|:----:|
-|[高校社会科／公民ガイダンス](highscoolcivicsguidance.md)|[高校公民ガイダンス](https://www.youtube.com/watch?v=HRJkEYP2FC8)|  
-|[高校社会科／公民／政治分野](https://teacheramesaka.github.io/highschoolpolitics/)|[授業動画／高校公民／政治分野　再生リスト](https://www.youtube.com/playlist?list=PLOdKiaJAYzERndOIxrbdbhSC4GhkUZW_O)|  
-|[高校社会科／公民／経済分野](https://teacheramesaka.github.io/highschooleconomics/)||
-
+|[高校社会科／公民ガイダンス](highscoolcivicsguidance.md)|[公民ガイダンス動画](https://www.youtube.com/watch?v=HRJkEYP2FC8)|
+|[高校社会科／公民／政治分野](https://teacheramesaka.github.io/highschoolpolitics/)|[動画一覧](https://teacheramesaka.github.io/highschoolpolitics/LIST.html)|
+|[高校社会科／公民／経済分野](https://teacheramesaka.github.io/highschooleconomics/)|[動画一覧](https://teacheramesaka.github.io/highschooleconomics/LIST.html)|
 
 ### 高校公民の分野について
 ・高校の公民は、政経、現代社会、倫理、それに公共と色々な授業があります  
