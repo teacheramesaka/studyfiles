@@ -1,7 +1,7 @@
 # 雨坂先生の復習用資料集  
   
-当サイトは、文系教員VTuber[雨坂先生](https://twitter.com/teacheramesaka)の、授業の復習用資料を掲載しています。  
-現在は高校社会科の公民の復習用資料しかありませんが、徐々に増えていく予定です。  
+当サイトでは、文系教員VTuber[雨坂先生](https://twitter.com/teacheramesaka)の、授業の復習用資料を掲載しています。  
+資料は徐々に増えていく予定です。  
   
 授業を掲載しているyoutubeチャンネルは[こちら](https://www.youtube.com/channel/UCrht6vxr8hPElHXKxjyJEZA)  
   
@@ -10,6 +10,7 @@
   
 |資料|動画|
 |:----:|:----:|
+|[英語／中学復習講座](https://teacheramesaka.github.io/reviewenglishjh/)|[動画一覧](https://teacheramesaka.github.io/reviewenglishjh/LIST.html)|
 |[高校社会科／公民ガイダンス](highscoolcivicsguidance.md)|[公民ガイダンス動画](https://www.youtube.com/watch?v=HRJkEYP2FC8)|
 |[高校社会科／公民／政治分野](https://teacheramesaka.github.io/highschoolpolitics/)|[動画一覧](https://teacheramesaka.github.io/highschoolpolitics/LIST.html)|
 |[高校社会科／公民／経済分野](https://teacheramesaka.github.io/highschooleconomics/)|[動画一覧](https://teacheramesaka.github.io/highschooleconomics/LIST.html)|
