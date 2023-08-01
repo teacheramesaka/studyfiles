@@ -22,8 +22,6 @@
 
 ![](media/highschoolcivicsguidance01.png)
 
-・例えば政治分野と経済分野を学べば、政経は全部学んだ事になる訳です  
+・例えば、政治分野と経済分野を学べば、政経は全部学んだ事になる  
 ・詳しくは[高校社会科／公民ガイダンス](highscoolcivicsguidance.md)をどうぞ
-  
-  
   
