@@ -44,7 +44,7 @@
 |資料|動画|  
 |:----:|:----:|  
 |[英語／中学復習講座](https://teacheramesaka.github.io/reviewenglishjh/)|[動画一覧](https://teacheramesaka.github.io/reviewenglishjh/LIST.html)|  
-|[高校社会科／公民ガイダンス](highscoolcivicsguidance.md)|[公民ガイダンス動画](https://www.youtube.com/watch?v=HRJkEYP2FC8)|  
+|高校社会科／公民ガイダンス<br>↑今見てるページはコレ|[公民ガイダンス動画](https://www.youtube.com/watch?v=HRJkEYP2FC8)|  
 |[高校社会科／公民／政治分野](https://teacheramesaka.github.io/highschoolpolitics/)|[動画一覧](https://teacheramesaka.github.io/highschoolpolitics/LIST.html)|  
 |[高校社会科／公民／経済分野](https://teacheramesaka.github.io/highschooleconomics/)|[動画一覧](https://teacheramesaka.github.io/highschooleconomics/LIST.html)|  
 |[高校社会科／公民／倫理分野](https://teacheramesaka.github.io/highschoolethics/)||  
@@ -52,8 +52,8 @@
 ※授業の動画を見る時、手元に復習用資料を用意しておく必要はありません。ただあった方がいいのは事実なので、スマホで動画を見ながらタブレットで復習用資料を表示しておくとか、そういう事が可能なのであればそうしてください  
   
 ### 〇大学受験する人について  
-・大学受験対策の人は、きちんと教科書を用意しましょう  
-⇒この教科書は、学校の教科書でも、市販の参考書でも構いません。本屋でぱらぱらめくってみて、解説が気に入ったものを選びましょう。勿論私の作った復習用資料を教科書にしても可  
+・大学受験対策で私の授業を受ける人は、「教科書となる何か」を用意しましょう  
+⇒学校の教科書でも、市販の参考書でも構いません。本屋でぱらぱらめくってみて、解説が気に入ったものを選びましょう。勿論私の作った復習用資料を教科書にしても可  
   
 ・私の授業を受けたら、自分の教科書でも復習しましょう  
 ・その際重要単語をマークしたり、ノートを作ったりするのも大事です  
