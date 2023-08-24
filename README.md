@@ -5,6 +5,8 @@
   
 授業を掲載しているyoutubeチャンネルは[こちら](https://www.youtube.com/channel/UCrht6vxr8hPElHXKxjyJEZA)  
   
+授業の復習用資料だけでなく、[教員向け便利ファイル集](https://teacheramesaka.github.io/convenienceforteachers/)もあります。  
+現在は、小テスト実施の労力を減らす便利ファイルが置いてあります。特に中高の、お悩みの先生は是非どうぞ。  
   
 ## 復習用資料及び動画一覧  
   

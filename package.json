@@ -1,7 +1,7 @@
 {
   "name": "workingspace",
   "version": "1.0.0",
-  "description": "",
+  "description": "当サイトでは、文系教員VTuber[雨坂先生](https://twitter.com/teacheramesaka)の、授業の復習用資料を掲載しています。  \r 資料は徐々に増えていく予定です。",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "honkit": "^3.6.17"
+    "honkit": "^3.7.5"
+  },
+  "directories": {
+    "doc": "docs"
   }
 }
