@@ -6,6 +6,44 @@
   
 ## 目次  
   
+<table style="width:100%;">
+  <tr>
+    <th style="width:50%;">ウェブサイト</th>
+    <th style="width:50%;">主な内容</th>
+  </tr>
+  <tr>
+    <td>[公共、政治経済、倫理ガイダンス<br>（社会科公民ガイダンス）](highscoolcivicsguidance.md)</td>
+    <td>「歴史は分かるけど公民って何？」「公共と政治経済って何が違うの？」「政治経済で受験するのってアリ？なし？」というような解説</td>
+  </tr>
+  <tr>
+    <td>[公共、政治経済：政治分野<br>（社会科公民：政治分野）](https://teacheramesaka.github.io/highschoolpolitics/)</td>
+    <td>公共もしくは政治経済に於ける、政治分野の授業用＆復習用資料集。授業動画へのリンク等もあり〼</td>
+  </tr>
+  <tr>
+    <td>[公共、政治経済：経済分野<br>（社会科公民：経済分野）](https://teacheramesaka.github.io/highschooleconomics/)</td>
+    <td>公共もしくは政治経済に於ける、経済分野の授業用＆復習用資料集。授業動画へのリンク等もあり〼</td>
+  </tr>
+  <tr>
+    <td>[公共：倫理分野、倫理<br>（社会科公民：倫理分野）](https://teacheramesaka.github.io/highschoolethics/)<br>※試験運用中</td>
+    <td>公共の倫理分野、もしくは倫理の授業用＆復習用資料集。試験運用中で動画はなし、内容も「青年期の課題」「西洋思想史」のみ</td>
+  </tr>
+  <tr>
+    <td>[公共、政治経済、倫理問題集<br>（社会科公民問題集）](https://teacheramesaka.github.io/hsworkbookcivics/)<br>※試験運用中</td>
+    <td>公共、政治経済、倫理の問題集。試験運用中で、現在は事実上、政治経済の問題集</td>
+  </tr>
+  <tr>
+    <td>[英語：中学復習講座](https://teacheramesaka.github.io/reviewenglishjh/)</td>
+    <td>「流石にアルファベットは覚えてるし、"My name is Amesaka"ぐらいなら分かる」「でも英語ぜんぜんわかんない」って人向け、英語の基礎講座</td>
+  </tr>
+  <tr>
+    <td>[教員向け便利ファイル集](https://teacheramesaka.github.io/convenienceforteachers/)</td>
+    <td>名前の通り。小テストの労力削減とか</td>
+  </tr>
+</table>
+  
+<!-- 
+上記目次テーブルは本来以下のようにmd記法で書いていたが、どうもうまくいかない（ウェブサイトの方が妙に短く表示されて見づらい）ので上記のようにhtml方式で書いて幅を指定した
+
 |ウェブサイト|主な内容|
 |:----:|:----:|
 |[公共、政治経済、倫理ガイダンス<br>（社会科公民ガイダンス）](highscoolcivicsguidance.md)|「歴史は分かるけど公民って何？」「公共と政治経済って何が違うの？」「政治経済で受験するのってアリ？なし？」というような解説|
@@ -15,8 +53,9 @@
 |[公共、政治経済、倫理問題集<br>（社会科公民問題集）](https://teacheramesaka.github.io/hsworkbookcivics/)<br>※試験運用中|公共、政治経済、倫理の問題集。試験運用中で、現在は事実上、政治経済の問題集|
 |[英語：中学復習講座](https://teacheramesaka.github.io/reviewenglishjh/)|「流石にアルファベットは覚えてるし、"My name is Amesaka"ぐらいなら分かる」「でも英語ぜんぜんわかんない」って人向け、英語の基礎講座|
 |[教員向け便利ファイル集](https://teacheramesaka.github.io/convenienceforteachers/)|名前の通り。小テストの労力削減とか|
-  
 
+-->
+  
 ## 社会科公民？政治分野？経済分野？何それ？？
 ・高校社会科の公民は、政治経済、現代社会、倫理、それに公共と色々な授業があります  
 ・これ、どうなってるかと言うと、こう↓なってます  
