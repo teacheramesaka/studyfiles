@@ -1,8 +1,9 @@
-# 雨坂先生の復習用資料集  
+# 雨坂先生の研究室  
   
 当サイトは、文系教員VTuber[雨坂先生](https://twitter.com/teacheramesaka)が運営しています。  
+そして本ページは、**雨坂先生が運営する全てのウェブサイトのトップページ**にあたります。  
   
-授業の復習用資料が主です。授業を掲載しているyoutubeチャンネルは[こちら](https://www.youtube.com/channel/UCrht6vxr8hPElHXKxjyJEZA)  
+私のウェブサイトでは、授業用資料を主に掲載しています。授業を掲載しているyoutubeチャンネルは[こちら](https://www.youtube.com/channel/UCrht6vxr8hPElHXKxjyJEZA)  
   
 ## 目次  
   
