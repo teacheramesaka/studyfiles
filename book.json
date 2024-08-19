@@ -1,0 +1,9 @@
+{
+    "plugins": ["gitbook-plugin-insert-logo"],
+    "pluginsConfig": {
+        "insert-logo": {
+            "url": "./logo.png",
+            "style": "background: none;"
+        }
+    }
+}
