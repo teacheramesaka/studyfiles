@@ -1,6 +1,6 @@
 # Summary
 
-* [トップページ](README.md)
+* [雨坂先生の研究室　トップページ](README.md)
 
 -----
 
