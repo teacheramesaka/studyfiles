@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td style="text-align:center;">
-      <a href="https://teacheramesaka.github.io/highschoolethics/">公共、倫理：倫理<br>（社会科公民：倫理分野）</a><br>※試験運用中
+      <a href="https://teacheramesaka.github.io/highschoolethics/">公共、倫理：倫理分野<br>（社会科公民：倫理分野）</a><br>※試験運用中
     </td>
     <td style="text-align:center;">
       公共の倫理分野、もしくは倫理の授業用＆復習用資料集。試験運用中で動画はなし、内容も「青年期の課題」「西洋思想史」のみ
